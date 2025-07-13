@@ -31,3 +31,7 @@ This task taught me the importance of thinking algorithmically. Even though RLE 
 In addition to learning a useful compression technique, I also gained confidence in building programs that simulate real-life applications. I made sure to include comments in the code and used clear naming conventions for better readability.
 
 Overall, completing Task 4 was a rewarding experience. It wrapped up the internship tasks with a solid example of applied programming. I now feel much more comfortable with algorithm design, string processing, and file handling, and I look forward to applying these skills in more complex projects ahead.
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/374e4c78-3f4e-414a-a10e-284fef0b1746)
